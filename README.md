@@ -6,13 +6,14 @@ I build practical AI tools for finance and strategy work, and I use this space t
 
 ## What I'm working on
 
-- **[Earnings Call Analyzer](https://github.com/KittyGRepo/earnings-call-analyzer)**: turns earnings call transcripts into balanced, plain-English briefs covering key numbers, guidance, tone, risks, and questions to research.
+- **[Deal Fit Analyzer](https://github.com/KittyGRepo/deal-fit-analyzer)**: reads a company's SEC annual reports and shows what it says it wants, what it has actually done, and what kind of acquisition would fit. Use it on a potential buyer or a competitor.
+- **[Earnings Call Analyzer](https://github.com/KittyGRepo/earnings-call-analyzer)**: turns an earnings call transcript into a one-page executive brief covering key numbers, guidance, tone, risks, and what management did not clearly answer.
 
-More projects coming soon.
+Both check their own work: every quote is verified against the source document, and anything unverified is flagged.
 
 ## Tools I use
 
-Python · SQL · Claude Code · VS Code · Tableau · Power BI · Excel
+Python · SQL · Claude Code · Streamlit · VS Code · Tableau · Power BI · Excel
 
 ## Connect
 
